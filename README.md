@@ -54,7 +54,7 @@ The project emphasizes:
 
 🔗 Live Demo
 
-(Add your deployed link here — GitHub Pages / Netlify)
+https://vadayivar.github.io/Landing-Page/
 
 ---
 
